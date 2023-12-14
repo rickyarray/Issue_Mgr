@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Azo Sans';
+    src: url('/Users/Ricky/Library/Fonts/AzoSans-LightItalic.ttf') format('truetype');
+    font-weight: 330;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Azo Sans';
+    src: url('/Users/Ricky/Library/Fonts/AzoSans-MediumItalic.ttf') format('truetype');
+    font-weight: 420;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Azo Sans';
+    src: url('/Users/Ricky/Library/Fonts/AzoSans-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.nav-link {
+    font-family: Azo Sans;
+    font-weight: 420;
+    font-style: italic;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+
+.navbar-brand {
+    font-weight: 400;
+    color: rgb(28, 155, 16);
+}
+
+body {
+    font-family: 'Azo Sans';
+    font-weight: 330;
+    font-style: italic;
+}
+
+h1 {
+    font-family: 'Azo Sans';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.done {
+    color: rgb(28, 155, 16);
+}
+
+.to_do {
+    color: rgb(205, 13, 13)
+}
+
+.prog {
+    color: rgb(251, 251, 33);
+}
+
+.card-deck {
+    border: 3px;
+}
+
+.card-body {
+    background-color: rgb(45, 45, 45);
+}
+
+.card-body:hover {
+    transform: scale(1.050);
+    transition: transform 0.3s ease; 
+}
+
+.card-text {
+    font-family: 'Azo Sans';
+    font-weight: 340;
+    font-style: italic;
+    font-size: 18px;
+    color: white;
+}
+
+.card-link {
+    font-family: 'Azo Sans';
+    font-weight: 330;
+    font-style: italic;
+    font-variant-caps: all-small-caps;
+    font-size: 20px;
+    color: rgb(186, 79, 22);
+    text-decoration: none;
+}
+
+.card-link:hover {
+    font-variant-caps: all-small-caps;
+    text-decoration: underline;
+    color: rgb(28, 155, 16);
+}    
+
+ul {
+    font-family: Azo Sans;
+    font-weight: 420;
+    font-style: italic;
+}

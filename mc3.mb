@@ -1,0 +1,15 @@
+# Mini Challenge 3
+
+## Full CRUD(S) support for Issues
+
+### Acceptance Criteria
+1. Users should be able to create new issues.
+2. Users should be able to see a detail page for existing issues.
+3. Users should be able to update existing issues.
+4. Users should be able to delete existing issues (permanent delete).
+
+## Bonus:
+Users should be able to "archive" issues (these no longer show up on the board). This is a soft delete.
+
+## Bonus 2:
+All users must be logged in to access all views.

@@ -1,0 +1,12 @@
+# Mini Challenge 2
+
+## Issue Board View
+
+### Acceptance Criteria
+1. The board contains a column listing issues in the "to do" status.
+2. The board contains a column listing issues in the "in progress" status.
+3. The board contains a column listing issues in the "done" status.
+
+
+## Bonus
+See if you can filter issues so that the user can only see issues belonging to their team.
